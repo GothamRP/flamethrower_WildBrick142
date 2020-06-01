@@ -8,7 +8,7 @@ original_author 'WildBrick142'
 original_mod 'https://www.gta5-mods.com/weapons/flamethrower-add-on-hud-icon'
 
 resource_creator 'Success'
-resource_creator_link 'https://forum.cfx.re/u/succ3ssgaming/'
+resource_creator_link 'https://forum.cfx.re/t/flamethrower-add-on-hud-icon-adapted-for-fivem-originally-by-wildbrick142/1309791'
 
 
  
